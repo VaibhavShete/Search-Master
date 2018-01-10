@@ -1,0 +1,125 @@
+{
+  "value": [
+    { 
+      "@search.action": "upload", "id":"1","name":"Ahool Ale" ,"ibu":"33",
+	   "abv":"5.4", "flavors":"biscuity","breweryId":"b3TplPdS", 
+	   "breweryName":"Northern Hemisphere Brewco ", "type":"Good times happen after hours"
+     
+	  },
+  
+  { 
+      "@search.action": "upload",    "id":"2",      "name":"Agogwe Ale", "activelyBrewed":"true",  "ibu":"28",
+	   "abv":"2.9",	   "flavors":"whear, floral",  "breweryId":"Ek4mwsBoe", 
+	   "breweryName":"Southern Hemisphere Brewco",   "type":"Good times happen after hours"
+     
+    },
+    
+        { 
+      "@search.action": "upload",  "id":"3",   "name":"Aswang Ale ", "activelyBrewed":"true",  "ibu":"31",
+	   "abv":"4.2",	   "flavors":"butter, yeast","breweryId":"b3TplPdS", "breweryName":"Northern Hemisphere Brewco", 
+      "type":"This is a light Beer"
+     
+	  },
+	  
+	  { 
+      "@search.action": "upload",  "id":"4",   "name":" Buru's Barley Wine ",  "activelyBrewed":"true",  "ibu":"76",
+	   "abv":"11.1",   "flavors":"raisin, dried Fruit, bourbon",   "breweryId":"b3TplPdS",   "breweryName":"Northern Hemisphere Brewco", 
+	   "type":"A Pinch of Bourbon in it"
+     
+    },
+    
+    	  { 
+      "@search.action": "upload",  "id":"7",   "name":" Hyote Chocolate Stout ",  "activelyBrewed":"true",  "ibu":"78",
+	   "abv":"7.4",   "flavors":" caramel, chocolate",   "breweryId":"zkXBTiBol",   "breweryName":"Northern Hemisphere Brewco", 
+	   "type":"It contains Caramel and Chocolate Flavors"
+     
+    },
+    
+    	  { 
+      "@search.action": "upload",  "id":"8",   "name":"malt, bread ",  "activelyBrewed":"true",  "ibu":"36",
+	   "abv":"5.7",   "flavors":" malt, bread",   "breweryId":"zkXBTiBol",   "breweryName":"Northern Hemisphere Brewco", 
+	   "type":"Served with Bread"
+     
+    },
+    
+    	  { 
+      "@search.action": "upload",  "id":"9",   "name":" Jackalobe Lager  ",  "activelyBrewed":"true",  "ibu":"29",
+	   "abv":"3.3",   "flavors":" Fruits, Citrus",   "breweryId":"zkXBTiBol",   "breweryName":"Northern Hemisphere Brewco", 
+	   "type":"Has a mild Citrus Flavor to it"
+     
+    },
+    
+    
+    	  { 
+      "@search.action": "upload",  "id":"11",   "name":"Mahamba Barley Wine ",  "activelyBrewed":"true",  "ibu":"57",
+	   "abv":"9.7",   "flavors":"malt, raisin",   "breweryId":"Ek4mwsBoe",   "breweryName":"Southern Hemisphere Brewco", 
+	   "type":"For people who love Raisin in everday!!"
+     
+    },
+    
+    { 
+      "@search.action": "upload",  "id":"12",   "name":"Megalodon Pale Ale ",  "activelyBrewed":"true",  "ibu":"99",
+	   "abv":"5.7",   "flavors":"bread, hops, pine  ",   "breweryId":"VkNvPjBse",   "breweryName":"Oceanic Brewco  ", 
+	   "type":"For a Happy Time with some Bitterness to it"
+     
+    },
+    
+    { 
+      "@search.action": "upload",  "id":"16",   "name":"Pope Lick Porter ",  "activelyBrewed":"true",  "ibu":"39",
+	   "abv":"6.5",   "flavors":"smokey, chocolate, banana ",   "breweryId":"zkXBTiBol",   "breweryName":"Northern Hemisphere Brewco ", 
+	   "type":"Tastes Smokey, Choclatey with Banana"
+     
+    },
+    
+     { 
+      "@search.action": "upload",  "id":"17",   "name":"Chocolate Pukwudgie Stout ",  "activelyBrewed":"true",  "ibu":"35",
+	   "abv":"12.2",   "flavors":"chocolate, cofee ",   "breweryId":"b3TplPdS",   "breweryName":"Northern Hemisphere Brewco ", 
+	   "type":"This one has the higest Bittners Value with us"
+     
+    },
+    
+       { 
+      "@search.action": "upload",  "id":"18",   "name":" Sharlie Pilsner",  "activelyBrewed":"true",  "ibu":"31",
+	   "abv":"4.1",   "flavors":"grass ",   "breweryId":"zkXBTiBol",   "breweryName":"Northern Hemisphere Brewco ", 
+	   "type":"Has a Grassy Aroma to it !!"
+     
+    },
+    
+     { 
+      "@search.action": "upload",  "id":"19",   "name":"Sigbin Stout",  "activelyBrewed":"false",  "ibu":"65",
+	   "abv":"8.1",   "flavors":"cofee, caramel ",   "breweryId":"zkXBTiBol",   "breweryName":"Northern Hemisphere Brewco ", 
+	   "type":"Has a Grassy Aroma to it !!"
+     
+    },
+    
+    
+     { 
+      "@search.action": "upload",  "id":"21",   "name":"Snallygaster Pale Ale ",  "activelyBrewed":"false",  "ibu":"89",
+	   "abv":"9.8",   "flavors":"pine,hone",   "breweryId":"zkXBTiBol",   "breweryName":"Northern Hemisphere Brewco ", 
+	   "type":"Honey Lovers Dig it !!"
+     
+    },
+    
+    { 
+      "@search.action": "upload",  "id":"22",   "name":"Tikibalang Barley Wine",  "activelyBrewed":"true",  "ibu":"45",
+	   "abv":"9.6",   "flavors":"bourbon",   "breweryId":"b3TplPdS",   "breweryName":"Northern Hemisphere Brewco ", 
+	   "type":"You love Bourbon, You gotta have it!!"
+     
+    },
+    
+     { 
+      "@search.action": "upload",  "id":"26",   "name":"Pale Popobawa Ale",  "activelyBrewed":"true",  "ibu":"30",
+	   "abv":"4.4",   "flavors":"wheat, grainy",   "breweryId":"Ek4mwsBoe",   "breweryName":"Southern Hemisphere Brewco ", 
+	   "type":"More Retro Flavor to it"
+     
+    },
+    
+       { 
+      "@search.action": "upload",  "id":"27",   "name":"North Adjule Lager ",  "activelyBrewed":"true",  "ibu":"30",
+	   "abv":"3.7",   "flavors":"citrus",   "breweryId":"Ek4mwsBoe",   "breweryName":"Southern Hemisphere Brewco ", 
+	   "type":"Our Speciality in Citrus Flavor "
+     
+    }
+    
+  ]
+}

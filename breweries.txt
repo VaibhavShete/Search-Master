@@ -1,0 +1,7 @@
+| ID         | Name                       			     | Description | Slogan | BreweryType  | Latitude  | Longitude  |
+|------------|---------------------------		 |-------------|-------  -|--------------|-----------|------------|
+| Ek4r5TvC  | East Co. Brewco 					 |                |            | micro          | "39.923429 | -86.149979 |
+| b32w5tgh   | Phil Matt Co. Brewco           |                 |           | farm            | 39.899728 | -86.055565 |
+| Ctyhlkb4e  | Oceanic Comp Brewco          |                 |           | nano           | 39.824688 | -86.157746 |
+| XdeTTgRRL |  Matt Blanck Comp Brewco   |                 |           | micro          | 39.835432 | -86.034279 |
+
